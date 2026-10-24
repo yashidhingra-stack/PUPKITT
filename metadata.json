@@ -1,0 +1,6 @@
+{
+  "name": "Pupkitt Pet Care Hospital",
+  "description": "Pupkitt Pet Care Hospital in Derabassi, Ambala Highway, Punjab. Premier veterinary surgical and critical care center led by DR. N.K Goyal and DR. S Arora. 50% off specialist consultations (₹400), 24/7 ICU & trauma, orthopedic TPLO, and emergency line +91 95923 35364.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
